@@ -42,7 +42,7 @@ WindowsEvents
 
 <br>
 
-## 3. Single-IP Deep Dive
+## 3. Single-IP Search
 
 ```kql
 let GeoIPDB_FULL = _GetWatchlist("GEOIP");
