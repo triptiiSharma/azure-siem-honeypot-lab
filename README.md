@@ -54,6 +54,8 @@ This project demonstrates end-to-end SOC workflow: log ingestion → normalizati
 | VM exposure time | ~24 hours |
 | Targeted usernames observed | ADMINISTRATOR, REMOTE, XEON, HOME, SCAN, SCANNER, and others |
 
+<br>
+
 **Top attack sources by volume (from attack map):**
 
 | Origin | Attempts |
@@ -74,11 +76,13 @@ This project demonstrates end-to-end SOC workflow: log ingestion → normalizati
 ## KQL Queries
 
 See [`kql-queries/queries.md`](kql-queries/queries.md) for all queries with explanations.
+
 <br>
 
 ## Observations & Analysis
 
 See [`findings/observations.md`](findings/observations.md) for in-depth threat analysis.
+
 <br>
 
 ## Screenshots
